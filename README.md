@@ -90,4 +90,4 @@ the data structure is as below
 
 The data is stored separately, so you can download all of it or any part you need.
 
-The data augmentation folder is stored separately, so you only need to copy its contents to the corresponding path in the VOC2007 folder when using it.
+The data augmentation folder is stored separately, so you only need to copy its contents to the corresponding path in `./VOC2007` when using it.
