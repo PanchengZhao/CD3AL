@@ -4,7 +4,7 @@
 
 ## 1 Introduction
 
-
+![4](./imgs/4.png)
 
 The acquisition of high-quality images is one of the main focuses of research in image-based plant disease detection. Due to the characteristics of convolutional neural networks themselves, when using computer vision as a tool for accurate disease identification, all potential symptoms must be considered in the image dataset, and the size and quality of the training dataset directly affect the accuracy and generalization of the model. In this paper, the **Classification & Detection Disease Dataset for Apple Leaf (CD3AL)** is constructed to cover both detection and classification tasks in order to train a better quality model. In order to simulate the user's scenario in a real environment, this paper collects a large number of apple leaf disease datasets collected under different conditions, and selects **rust, scab, powdery mildew and black rot** as the research objects through analysis and comparison, pre-processes the original dataset to produce the required classification and detection dataset, and finally applies common image enhancement methods to the dataset for data enhancement.
 
