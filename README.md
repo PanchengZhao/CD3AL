@@ -1,6 +1,8 @@
 # Classification & Detection Disease Dataset for Apple Leaf, CD3AL
 
-> This dataset is collected for undergraduate bachelor's degree thesis, and its detection labels are annotated by the author, and the final interpretation right belongs to the author.
+> This dataset is collected for undergraduate bachelor's degree thesis, and its detection labels are annotated by the author. The final interpretation right belongs to the author.
+>
+> All data are for academic research only and commercial use is prohibited. The source of the data has been indicated below. If there is any infringement, please contact  ***[zhaopancheng@mail.nankai.edu.cn](mailto:zhaopancheng@mail.nankai.edu.cn)***, and I will deal with it promptly.
 
 ## 1 Introduction
 
@@ -44,7 +46,7 @@ The **Plant-Village** is from the 2018 AI Challenger crop disease detection comp
 
 > [2]   Hughes D, Salathé M. An open access repository of images on plant health to enable the development of mobile disease diagnostics[J]. arXiv preprint arXiv:1511.08060, 2015.
 
-![Four disease examples](./imgs/1.jpg)
+![Four disease examples](./imgs/1.png)
 
 ## 3 Data Annotation
 
